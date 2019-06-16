@@ -8,7 +8,7 @@
 
 ### 專案開發
 
-1.  登入 GitLab (<>)
+1.  登入 GitLab
 ![GitLab](assets/image/GitLab_Login.png)
 > 測試帳號：
 > + Account : DemoMan
