@@ -15,9 +15,9 @@
 ##### Move Library (after)
 ![7](assets/ImportSpringProject/MoveLibAfter.png)
 ##### Edit Configurations > Add New Configuration > Tomcat
-![8](assets/ImportSpringProject/Add Tomcat.png)
+![8](assets/ImportSpringProject/Add_Tomcat.png)
 ##### Deployment > Fix
-![9](assets/ImportSpringProject/Add Exploded.png)
+![9](assets/ImportSpringProject/Add_Exploded.png)
 ##### Finish
-![9](assets/ImportSpringProject/Tomcat Finish.png)
+![9](assets/ImportSpringProject/Tomcat_Finish.png)
 
